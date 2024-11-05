@@ -1,0 +1,5 @@
+0 Agreeableness
+1 Conscientiousness
+2 Extraversion
+3 Neuroticism
+4 Openness
